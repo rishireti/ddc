@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Conda
+*.exe
+*.bat
+*.yml
+
+# Data (keep raw/preprocessed data out of the repo unless intended)
+data/raw/
+data/processed/*.csv
+
+# Environment
+.env
+.venv/
+env/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
