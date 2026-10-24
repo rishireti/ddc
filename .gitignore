@@ -25,3 +25,8 @@ Thumbs.db
 # Editor
 .idea/
 .vscode/
+
+# Local agent and OpenSpec configuration
+.agent/
+.opencode/
+openspec/
